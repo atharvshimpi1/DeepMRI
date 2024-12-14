@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text">@color/colorPrimaryDark</color>
+    <color name="button">@color/colorPrimary</color>
+    <color name="colorPrimary">#FF8A80</color> <!-- Light Reddish Pink -->
+    <color name="colorPrimaryDark">#FF5252</color> <!-- Darker Red -->
+    <color name="colorAccent">#FF80AB</color> <!-- Pink Accent -->
+</resources>
